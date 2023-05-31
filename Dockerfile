@@ -1,5 +1,5 @@
 FROM node:latest
-RUN git clone https://github.com/DinacoStudio/Dudos.git /home/dinaco/dudos_test
+RUN git clone https://github.com/DinacoStudio/youtube.git /home/dinaco/youtube
 
 WORKDIR /home/dinaco/youtube
 
